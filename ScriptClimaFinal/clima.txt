@@ -1,0 +1,95 @@
+Ciudad: Spain
+Temperatura: 18.44°C
+Presión atmosférica: 1010 hPa 
+Humedad: 52% 
+Descripción: few clouds
+
+Ciudad: Mexico City
+Temperatura: 17.88°C
+Presión atmosférica: 1025 hPa 
+Humedad: 63% 
+Descripción: few clouds
+
+Ciudad: United States of America
+Temperatura: 24.44°C
+Presión atmosférica: 1008 hPa 
+Humedad: 71% 
+Descripción: clear sky
+
+Ciudad: Brazil
+Temperatura: 21.63°C
+Presión atmosférica: 1015 hPa 
+Humedad: 87% 
+Descripción: clear sky
+
+Ciudad: Buenos Aires
+Temperatura: 14.25°C
+Presión atmosférica: 1014 hPa 
+Humedad: 93% 
+Descripción: broken clouds
+
+Ciudad: Spain
+Temperatura: 18.44°C
+Presión atmosférica: 1010 hPa 
+Humedad: 52% 
+Descripción: few clouds
+
+Ciudad: Brazil
+Temperatura: 21.63°C
+Presión atmosférica: 1015 hPa 
+Humedad: 87% 
+Descripción: clear sky
+
+Ciudad: Monterrey
+Temperatura: 24.64°C
+Presión atmosférica: 1011 hPa 
+Humedad: 73% 
+Descripción: clear sky
+
+Ciudad: United States of America
+Temperatura: 24.44°C
+Presión atmosférica: 1008 hPa 
+Humedad: 71% 
+Descripción: clear sky
+
+Ciudad: California
+Temperatura: 21.23°C
+Presión atmosférica: 1012 hPa 
+Humedad: 64% 
+Descripción: overcast clouds
+
+Ciudad: Guadalajara
+Temperatura: 19.92°C
+Presión atmosférica: 1020 hPa 
+Humedad: 73% 
+Descripción: broken clouds
+
+Ciudad: Colombia
+Temperatura: 25.00°C
+Presión atmosférica: 1015 hPa 
+Humedad: 100% 
+Descripción: overcast clouds
+
+Ciudad: Brazil
+Temperatura: 21.63°C
+Presión atmosférica: 1015 hPa 
+Humedad: 87% 
+Descripción: clear sky
+
+Ciudad: New Brunswick
+Temperatura: 6.84°C
+Presión atmosférica: 1008 hPa 
+Humedad: 94% 
+Descripción: overcast clouds
+
+Ciudad: Manizales
+Temperatura: 12.73°C
+Presión atmosférica: 1016 hPa 
+Humedad: 76% 
+Descripción: overcast clouds
+
+Ciudad: Colombia
+Temperatura: 25.00°C
+Presión atmosférica: 1015 hPa 
+Humedad: 100% 
+Descripción: overcast clouds
